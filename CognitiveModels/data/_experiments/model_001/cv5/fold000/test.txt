@@ -1,0 +1,31 @@
+Label	Weight	Text
+l_Sajjita_Payroll	1	yes i want to see suggestions
+l_Sajjita_Payroll	1	show gratuity for april of sajjita
+l_Sajjita_Payroll	1	what is my pf amount for november
+l_Sajjita_Payroll	1	file medical allowance under yukti with empid 202086
+l_Sajjita_Payroll	1	i want to see payroll
+l_Sajjita_Payroll	1	recharge
+l_Sajjita_Payroll	1	what is my gratuity amount till march
+l_Sajjita_Payroll	1	see payroll options
+l_Sajjita_Payroll	1	i want to quit this convo
+l_Sajjita_Payroll	1	exit
+l_Sajjita_Payroll	1	my employee id is 202086 and i want to apply for reimbursement of travel for 20 dollars
+l_Sajjita_Payroll	1	tell me my gratuity for emp id 202086 and name sajjita for march
+l_Sajjita_Payroll	1	recharge my current balance
+l_Sajjita_Payroll	1	file a request for medical allowance reimbursement
+l_Sajjita_Payroll	1	tell gratuity amount of march for kashish
+l_Sajjita_Payroll	1	i want to see my salaryslip
+l_Sajjita_Payroll	1	show gratuity for sajjita
+l_Sajjita_Payroll	1	show salary slip for january
+l_Sajjita_Payroll	1	help
+l_Sajjita_Payroll	1	no
+l_Sajjita_Payroll	1	i want see my bonus for the month of december
+l_Sajjita_Payroll	1	my name is sajjita and i want to apply for medical reimbursement of 40 dollars
+l_Sajjita_Payroll	1	i want to view bonus for soha
+l_Sajjita_Payroll	1	i want to view my gratuity for may
+l_Sajjita_Payroll	1	i want to see bonus for kashish
+l_Sajjita_Payroll	1	i want to see help options
+None	1	i want to file travel allowance of 200 dollars
+q_qna-sajjita	1	Light doesn't work after upgrade.
+q_qna-sajjita	1	Who should I contact for customer service
+q_qna-sajjita	1	How do I contact support

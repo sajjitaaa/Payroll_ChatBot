@@ -1,0 +1,18 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "my first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajjita",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.13.6",
+    "botbuilder-ai": "^4.14.0",
+    "botbuilder-ai-orchestrator": "^4.14.1",
+    "botbuilder-dialogs": "^4.13.6",
+    "restify": "^8.5.1"
+  }
+}

@@ -1,0 +1,31 @@
+Label	Weight	Text
+l_Sajjita_Payroll	1	i want to see bonus for kash
+l_Sajjita_Payroll	1	name-soha , empid- 303011 , show the salary slip for april
+l_Sajjita_Payroll	1	i want to apply for reimbursement
+l_Sajjita_Payroll	1	i wanna quit this conversation
+l_Sajjita_Payroll	1	my name is sajjita. i want to view my bonus
+l_Sajjita_Payroll	1	help options
+l_Sajjita_Payroll	1	show payroll options
+l_Sajjita_Payroll	1	i want to see my bonus for feb
+l_Sajjita_Payroll	1	quit this convo
+l_Sajjita_Payroll	1	show pf for sajjita
+l_Sajjita_Payroll	1	i want to see my bonus
+l_Sajjita_Payroll	1	payroll options
+l_Sajjita_Payroll	1	i want to see my pf for feb
+l_Sajjita_Payroll	1	no i dont need help
+l_Sajjita_Payroll	1	payroll options please
+l_Sajjita_Payroll	1	i want to apply for travel allowance of 300 rupees
+l_Sajjita_Payroll	1	show pf amount of sajjita for dec
+l_Sajjita_Payroll	1	show salaryslip under sajjita for march
+l_Sajjita_Payroll	1	i want to see bonus for anushka
+l_Sajjita_Payroll	1	i want to quit this session
+l_Sajjita_Payroll	1	show help
+l_Sajjita_Payroll	1	i want to apply for travel reimbursement
+l_Sajjita_Payroll	1	i wanna view payroll options
+l_Sajjita_Payroll	1	i want to see salary slip for feb under sajjita
+l_Sajjita_Payroll	1	show the the pf amount for yash
+l_Sajjita_Payroll	1	tell the pf amount of nancy for december
+None	1	name - soha , emp id - 303011. file for medical allowance
+q_qna-sajjita	1	Light won't turn on.
+q_qna-sajjita	1	I need help.
+q_qna-sajjita	1	Question

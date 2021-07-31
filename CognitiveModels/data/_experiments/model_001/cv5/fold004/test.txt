@@ -1,0 +1,31 @@
+Label	Weight	Text
+l_Sajjita_Payroll	1	empid is 303040 and i want to view my pf statement for december
+l_Sajjita_Payroll	1	file a reimbursement request for sajjita
+l_Sajjita_Payroll	1	show gratuity amount for sajjita
+l_Sajjita_Payroll	1	show pf for dec
+l_Sajjita_Payroll	1	payroll
+l_Sajjita_Payroll	1	show pf amount for sajjita for dec
+l_Sajjita_Payroll	1	want to apply for reimbursement of 100rs
+l_Sajjita_Payroll	1	emp id 202086 and i want to see my pf
+l_Sajjita_Payroll	1	i want to recharge
+l_Sajjita_Payroll	1	i want to check my bonus
+l_Sajjita_Payroll	1	show salary slip for sajjita
+l_Sajjita_Payroll	1	what is my bonus for february? 202086 and name is anushka
+l_Sajjita_Payroll	1	my emp id is 303011 and i want to view my bonus for dec
+l_Sajjita_Payroll	1	kash
+l_Sajjita_Payroll	1	i want to recharge my phone
+l_Sajjita_Payroll	1	show me help suggestions
+l_Sajjita_Payroll	1	payroll suggestions
+l_Sajjita_Payroll	1	i wanna see help suggestions
+l_Sajjita_Payroll	1	please show me the suggestions
+l_Sajjita_Payroll	1	show help options
+l_Sajjita_Payroll	1	yes
+l_Sajjita_Payroll	1	my name is kashish and i want to see my gratuity
+l_Sajjita_Payroll	1	i want to apply for medical allowance of 200 dollars
+l_Sajjita_Payroll	1	file a reimbursement request for medical allowance of 100dollars under sajjita
+l_Sajjita_Payroll	1	i need help
+l_Sajjita_Payroll	1	i want to know my pf for march
+None	1	i want to see my bonus for december. name is sajjita
+q_qna-sajjita	1	My Contoso smart light won't turn on.
+q_qna-sajjita	1	How long does the light's battery last for
+q_qna-sajjita	1	I upgraded the app and it doesn't work anymore.

@@ -1,0 +1,31 @@
+Label	Weight	Text
+l_Sajjita_Payroll	1	i want help
+l_Sajjita_Payroll	1	i want to see my gratuity
+l_Sajjita_Payroll	1	show bonus for february
+l_Sajjita_Payroll	1	what is my gratuity amount for may? name - yukti , id- 303040
+l_Sajjita_Payroll	1	check my gratuity for the month of jan
+l_Sajjita_Payroll	1	sajjita. i want to see my bonus for jan
+l_Sajjita_Payroll	1	i'd like to reimburse my travel allowance
+l_Sajjita_Payroll	1	what is bonus for may
+l_Sajjita_Payroll	1	show pf of sajjita
+l_Sajjita_Payroll	1	i dont want to see suggestions
+l_Sajjita_Payroll	1	recharging
+l_Sajjita_Payroll	1	i want travel allowance of 500rs under nancy with id 303011
+l_Sajjita_Payroll	1	duryodhan
+l_Sajjita_Payroll	1	i want to exit this session
+l_Sajjita_Payroll	1	i want payroll option
+l_Sajjita_Payroll	1	file medical allowance under name yukti with empid 202086
+l_Sajjita_Payroll	1	quit
+l_Sajjita_Payroll	1	quit this conversation
+l_Sajjita_Payroll	1	exit this convo
+l_Sajjita_Payroll	1	i dont need suggestions
+l_Sajjita_Payroll	1	show the pf amount of yash for sep
+l_Sajjita_Payroll	1	show payroll suggestions
+l_Sajjita_Payroll	1	my name is sajjita and i want to view my may pf.
+l_Sajjita_Payroll	1	show my salary details for oct
+l_Sajjita_Payroll	1	i want to see bonus for yash
+l_Sajjita_Payroll	1	i want to exit the session
+None	1	i want to see my bonus for december. name is sajjita
+q_qna-sajjita	1	What type of light bulb do I need
+q_qna-sajjita	1	Hi
+q_qna-sajjita	1	My Contoso smart light won't turn on.

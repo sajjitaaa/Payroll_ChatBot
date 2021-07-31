@@ -1,0 +1,31 @@
+Label	Weight	Text
+l_Sajjita_Payroll	1	tell me my march pf amount
+l_Sajjita_Payroll	1	i wanna exit
+l_Sajjita_Payroll	1	file a request for convence allowance reimbursement of 200 dollars
+l_Sajjita_Payroll	1	i want to apply for travel allowance
+l_Sajjita_Payroll	1	view payroll
+l_Sajjita_Payroll	1	what are the payroll optiobs
+l_Sajjita_Payroll	1	i want to see my salary slip
+l_Sajjita_Payroll	1	shoe help suggestions
+l_Sajjita_Payroll	1	i want to view bonus for yash
+l_Sajjita_Payroll	1	show salary slip for feb under sajjita
+l_Sajjita_Payroll	1	kashish
+l_Sajjita_Payroll	1	show suggestions
+l_Sajjita_Payroll	1	yes i need help
+l_Sajjita_Payroll	1	i wanna quit
+l_Sajjita_Payroll	1	check my gratuity amount for january
+l_Sajjita_Payroll	1	i want to see my salary details
+l_Sajjita_Payroll	1	show my salary slip of march
+l_Sajjita_Payroll	1	show salary slip under sajjita
+l_Sajjita_Payroll	1	i want to know my pf for may. name is sajjita bhattacharya
+l_Sajjita_Payroll	1	show salary slip
+l_Sajjita_Payroll	1	i need help suggestions
+l_Sajjita_Payroll	1	file for medical allowance of 200 dollars
+l_Sajjita_Payroll	1	want to see help suggestions
+l_Sajjita_Payroll	1	i want to view my salary slip. my name is sajjita , for april month.
+l_Sajjita_Payroll	1	show me the bonus for december
+l_Sajjita_Payroll	1	show gratuity for april for sajjita
+None	1	i want to see my bonus for december. name is sajjita
+q_qna-sajjita	1	ssup
+q_qna-sajjita	1	My smart light app stopped responding.
+q_qna-sajjita	1	Why does the light not work

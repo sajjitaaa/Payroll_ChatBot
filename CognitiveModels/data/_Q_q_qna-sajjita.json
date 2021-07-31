@@ -1,0 +1,178 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Answer",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "Question"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 2,
+      "answer": "Check the connection to the wall outlet to make sure it's plugged in properly.",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "My Contoso smart light won't turn on.",
+        "Light won't turn on."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 3,
+      "answer": "Restart the app. If the problem persists, contact support.",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "My smart light app stopped responding."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 4,
+      "answer": "Email us at service@contoso.com",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "How do I contact support?",
+        "I need help."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 5,
+      "answer": "When you upgrade, you need to disable Bluetooth, then re-enable it. After re-enable, re-pair your light with the app.",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "I upgraded the app and it doesn't work anymore.",
+        "Light doesn't work after upgrade."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 6,
+      "answer": "Please direct all customer service questions to (202) 555-0164",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "Who should I contact for customer service?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 7,
+      "answer": "The simplest way to troubleshoot your smart light is to turn it off and on.",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "Why does the light not work?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 8,
+      "answer": "The battery will last approximately 10 - 12 weeks with regular use.",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "How long does the light's battery last for?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 9,
+      "answer": "A 26-Watt compact fluorescent light bulb that features both energy savings and long-life performance.",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "What type of light bulb do I need?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-27T18:20:08.857+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 10,
+      "answer": "Hello",
+      "source": "smartLightFAQ.tsv",
+      "questions": [
+        "Hi",
+        "ssup"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-07-28T16:34:51.718+00:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    }
+  ]
+}

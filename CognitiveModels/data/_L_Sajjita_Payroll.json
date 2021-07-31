@@ -1,0 +1,1017 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "Apply for Reimbursement",
+      "features": [
+        {
+          "modelName": "ReimbursementType",
+          "isRequired": false
+        },
+        {
+          "modelName": "money",
+          "isRequired": false
+        },
+        {
+          "modelName": "datetimeV2",
+          "isRequired": false
+        },
+        {
+          "modelName": "number",
+          "isRequired": false
+        },
+        {
+          "modelName": "personName",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "name": "None",
+      "features": [
+        {
+          "modelName": "datetimeV2",
+          "isRequired": false
+        },
+        {
+          "modelName": "number",
+          "isRequired": false
+        },
+        {
+          "modelName": "personName",
+          "isRequired": false
+        },
+        {
+          "modelName": "month",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "name": "Quit",
+      "features": []
+    },
+    {
+      "name": "Recharge",
+      "features": []
+    },
+    {
+      "name": "Show Help",
+      "features": []
+    },
+    {
+      "name": "showPayroll",
+      "features": []
+    },
+    {
+      "name": "View Bonus",
+      "features": [
+        {
+          "modelName": "datetimeV2",
+          "isRequired": false
+        },
+        {
+          "modelName": "number",
+          "isRequired": false
+        },
+        {
+          "modelName": "personName",
+          "isRequired": false
+        },
+        {
+          "modelName": "month",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "name": "View Gratuity",
+      "features": [
+        {
+          "modelName": "datetimeV2",
+          "isRequired": false
+        },
+        {
+          "modelName": "number",
+          "isRequired": false
+        },
+        {
+          "modelName": "personName",
+          "isRequired": false
+        },
+        {
+          "modelName": "month",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "name": "View PF",
+      "features": [
+        {
+          "modelName": "datetimeV2",
+          "isRequired": false
+        },
+        {
+          "modelName": "number",
+          "isRequired": false
+        },
+        {
+          "modelName": "personName",
+          "isRequired": false
+        },
+        {
+          "modelName": "month",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "name": "View Salary Slip",
+      "features": [
+        {
+          "modelName": "datetimeV2",
+          "isRequired": false
+        },
+        {
+          "modelName": "number",
+          "isRequired": false
+        },
+        {
+          "modelName": "personName",
+          "isRequired": false
+        },
+        {
+          "modelName": "month",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "month",
+      "subLists": [
+        {
+          "canonicalForm": "January",
+          "list": [
+            "jan"
+          ]
+        },
+        {
+          "canonicalForm": "February",
+          "list": [
+            "feb"
+          ]
+        },
+        {
+          "canonicalForm": "March",
+          "list": [
+            "march",
+            "mar"
+          ]
+        },
+        {
+          "canonicalForm": "April",
+          "list": [
+            "Apr",
+            "april"
+          ]
+        },
+        {
+          "canonicalForm": "May",
+          "list": [
+            "may"
+          ]
+        },
+        {
+          "canonicalForm": "June",
+          "list": [
+            "june",
+            "Jun"
+          ]
+        },
+        {
+          "canonicalForm": "July",
+          "list": [
+            "july",
+            "Jul"
+          ]
+        },
+        {
+          "canonicalForm": "August",
+          "list": [
+            "august",
+            "aug"
+          ]
+        },
+        {
+          "canonicalForm": "September",
+          "list": [
+            "september",
+            "sep"
+          ]
+        },
+        {
+          "canonicalForm": "October",
+          "list": [
+            "october",
+            "oct"
+          ]
+        },
+        {
+          "canonicalForm": "November",
+          "list": [
+            "november",
+            "nov"
+          ]
+        },
+        {
+          "canonicalForm": "December",
+          "list": [
+            "december",
+            "dec"
+          ]
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "ReimbursementType",
+      "subLists": [
+        {
+          "canonicalForm": "Medical",
+          "list": [
+            "medical"
+          ]
+        },
+        {
+          "canonicalForm": "Travel",
+          "list": [
+            "travel"
+          ]
+        },
+        {
+          "canonicalForm": "Convence",
+          "list": [
+            "convence"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    },
+    {
+      "name": "money",
+      "roles": []
+    },
+    {
+      "name": "number",
+      "roles": []
+    },
+    {
+      "name": "personName",
+      "roles": []
+    }
+  ],
+  "utterances": [
+    {
+      "text": "check my gratuity amount for january",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "check my gratuity for the month of jan",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "duryodhan",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "emp id 202086 and i want to see my pf",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "empid is 303040 and i want to view my pf statement for december",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "exit",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "exit this convo",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "file a reimbursement request for medical allowance of 100dollars under sajjita",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "file a reimbursement request for sajjita",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "file a request for convence allowance reimbursement of 200 dollars",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "file a request for medical allowance reimbursement",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "file for medical allowance of 200 dollars",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "file medical allowance under name yukti with empid 202086",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "file medical allowance under yukti with empid 202086",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "help options",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "i dont need suggestions",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i dont want to see suggestions",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i need help",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "i need help suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "i wanna exit",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i wanna quit",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i wanna quit this conversation",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i wanna see help suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "i wanna view payroll options",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "i want help",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "i want payroll option",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "i want see my bonus for the month of december",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for medical allowance of 200 dollars",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for reimbursement",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for travel allowance",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for travel allowance of 300 rupees",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for travel reimbursement",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "i want to check my bonus",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to exit the session",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i want to exit this session",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i want to file travel allowance of 200 dollars",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i want to know my gratuity for the december. emp id - 202086 , name - nancy",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "i want to know my pf for march",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "i want to know my pf for may. name is sajjita bhattacharya",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "i want to quit this convo",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i want to quit this session",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "i want to recharge",
+      "intent": "Recharge",
+      "entities": []
+    },
+    {
+      "text": "i want to recharge my phone",
+      "intent": "Recharge",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for anushka",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for kash",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for kashish",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for yash",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to see help options",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "i want to see my bonus",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to see my bonus for december. name is sajjita",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i want to see my bonus for feb",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to see my gratuity",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "i want to see my pf for feb",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "i want to see my salary details",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "i want to see my salary slip",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "i want to see my salaryslip",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "i want to see payroll",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see salary slip for feb under sajjita",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "i want to view bonus for soha",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to view bonus for yash",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "i want to view my gratuity for may",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "i want to view my salary slip. my name is sajjita , for april month.",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "i want travel allowance of 500rs under nancy with id 303011",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "i'd like to reimburse my travel allowance",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "kash",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "kashish",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "my emp id is 303011 and i want to view my bonus for dec",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "my employee id is 202086 and i want to apply for reimbursement of travel for 20 dollars",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "my name is kashish and i want to see my gratuity",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "my name is sajjita and i want to apply for medical reimbursement of 40 dollars",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "my name is sajjita and i want to view my may pf.",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "my name is sajjita. i want to view my bonus",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "name - soha , emp id - 303011. file for medical allowance",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "name-soha , empid- 303011 , show the salary slip for april",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "no",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "no i dont need help",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "payroll",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "payroll options",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "payroll options please",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "payroll suggestions",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "please show me the suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "quit",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "quit this conversation",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "quit this convo",
+      "intent": "Quit",
+      "entities": []
+    },
+    {
+      "text": "recharge",
+      "intent": "Recharge",
+      "entities": []
+    },
+    {
+      "text": "recharge my current balance",
+      "intent": "Recharge",
+      "entities": []
+    },
+    {
+      "text": "recharging",
+      "intent": "Recharge",
+      "entities": []
+    },
+    {
+      "text": "sajjita. i want to see my bonus for jan",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "see payroll options",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "shoe help suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "show bonus for february",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "show gratuity amount for sajjita",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "show gratuity for april for sajjita",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "show gratuity for april of sajjita",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "show gratuity for sajjita",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "show help",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "show help options",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "show me help suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "show me the bonus for december",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "show my salary details for oct",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show my salary slip of march",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show payroll options",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "show payroll suggestions",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "show pf amount for sajjita for dec",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "show pf amount of sajjita for dec",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "show pf for dec",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "show pf for sajjita",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "show pf of sajjita",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "show salary slip",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show salary slip for feb under sajjita",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show salary slip for january",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show salary slip for sajjita",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show salary slip under sajjita",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show salaryslip under sajjita for march",
+      "intent": "View Salary Slip",
+      "entities": []
+    },
+    {
+      "text": "show suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "show the pf amount of yash for sep",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "show the the pf amount for yash",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "tell gratuity amount of march for kashish",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "tell me my gratuity for emp id 202086 and name sajjita for march",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "tell me my march pf amount",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "tell the pf amount of nancy for december",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "view payroll",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "want to apply for reimbursement of 100rs",
+      "intent": "Apply for Reimbursement",
+      "entities": []
+    },
+    {
+      "text": "want to see help suggestions",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "what are the payroll optiobs",
+      "intent": "showPayroll",
+      "entities": []
+    },
+    {
+      "text": "what is bonus for may",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "what is my bonus for february? 202086 and name is anushka",
+      "intent": "View Bonus",
+      "entities": []
+    },
+    {
+      "text": "what is my gratuity amount for may? name - yukti , id- 303040",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "what is my gratuity amount till march",
+      "intent": "View Gratuity",
+      "entities": []
+    },
+    {
+      "text": "what is my pf amount for november",
+      "intent": "View PF",
+      "entities": []
+    },
+    {
+      "text": "yes",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "yes i need help",
+      "intent": "Show Help",
+      "entities": []
+    },
+    {
+      "text": "yes i want to see suggestions",
+      "intent": "Show Help",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1",
+  "name": "Sajjita_Payroll",
+  "desc": "Payroll HR Bot",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "i want to apply for {ReimbursementType} allowance",
+      "intent": "Apply for Reimbursement"
+    },
+    {
+      "pattern": "show pf amount for {personName} for {datetimeV2}",
+      "intent": "View PF"
+    },
+    {
+      "pattern": "show salary slip under {personName}",
+      "intent": "View Salary Slip"
+    },
+    {
+      "pattern": "i want {ReimbursementType} allowance of {money} under {personName} with id {number}",
+      "intent": "Apply for Reimbursement"
+    },
+    {
+      "pattern": "file a reimbursement request for {personName}",
+      "intent": "Apply for Reimbursement"
+    },
+    {
+      "pattern": "show the the pf amount for {personName}",
+      "intent": "View PF"
+    },
+    {
+      "pattern": "i want to see bonus for {personName}",
+      "intent": "View Bonus"
+    },
+    {
+      "pattern": "show gratuity amount for {personName}",
+      "intent": "View Gratuity"
+    },
+    {
+      "pattern": "show salary slip for {personName}",
+      "intent": "View Salary Slip"
+    },
+    {
+      "pattern": "my employee id is {number} and i want to apply for reimbursement of {ReimbursementType} for {money}",
+      "intent": "Apply for Reimbursement"
+    },
+    {
+      "pattern": "file for {ReimbursementType} allowance of {money}",
+      "intent": "Apply for Reimbursement"
+    },
+    {
+      "pattern": "i want to view bonus for {personName}",
+      "intent": "View Bonus"
+    }
+  ],
+  "settings": []
+}

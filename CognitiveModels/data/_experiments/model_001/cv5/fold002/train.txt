@@ -1,0 +1,119 @@
+Label	Weight	Text
+l_Sajjita_Payroll	1	yes i want to see suggestions
+l_Sajjita_Payroll	1	show gratuity for april of sajjita
+l_Sajjita_Payroll	1	what is my pf amount for november
+l_Sajjita_Payroll	1	file medical allowance under yukti with empid 202086
+l_Sajjita_Payroll	1	i want to see payroll
+l_Sajjita_Payroll	1	recharge
+l_Sajjita_Payroll	1	what is my gratuity amount till march
+l_Sajjita_Payroll	1	see payroll options
+l_Sajjita_Payroll	1	i want to quit this convo
+l_Sajjita_Payroll	1	exit
+l_Sajjita_Payroll	1	my employee id is 202086 and i want to apply for reimbursement of travel for 20 dollars
+l_Sajjita_Payroll	1	tell me my gratuity for emp id 202086 and name sajjita for march
+l_Sajjita_Payroll	1	recharge my current balance
+l_Sajjita_Payroll	1	file a request for medical allowance reimbursement
+l_Sajjita_Payroll	1	tell gratuity amount of march for kashish
+l_Sajjita_Payroll	1	i want to see my salaryslip
+l_Sajjita_Payroll	1	show gratuity for sajjita
+l_Sajjita_Payroll	1	show salary slip for january
+l_Sajjita_Payroll	1	help
+l_Sajjita_Payroll	1	no
+l_Sajjita_Payroll	1	i want see my bonus for the month of december
+l_Sajjita_Payroll	1	my name is sajjita and i want to apply for medical reimbursement of 40 dollars
+l_Sajjita_Payroll	1	i want to view bonus for soha
+l_Sajjita_Payroll	1	i want to view my gratuity for may
+l_Sajjita_Payroll	1	i want to see bonus for kashish
+l_Sajjita_Payroll	1	i want to see help options
+l_Sajjita_Payroll	1	i want to see bonus for kash
+l_Sajjita_Payroll	1	name-soha , empid- 303011 , show the salary slip for april
+l_Sajjita_Payroll	1	i want to apply for reimbursement
+l_Sajjita_Payroll	1	i wanna quit this conversation
+l_Sajjita_Payroll	1	my name is sajjita. i want to view my bonus
+l_Sajjita_Payroll	1	help options
+l_Sajjita_Payroll	1	show payroll options
+l_Sajjita_Payroll	1	i want to see my bonus for feb
+l_Sajjita_Payroll	1	quit this convo
+l_Sajjita_Payroll	1	show pf for sajjita
+l_Sajjita_Payroll	1	i want to see my bonus
+l_Sajjita_Payroll	1	payroll options
+l_Sajjita_Payroll	1	i want to see my pf for feb
+l_Sajjita_Payroll	1	no i dont need help
+l_Sajjita_Payroll	1	payroll options please
+l_Sajjita_Payroll	1	i want to apply for travel allowance of 300 rupees
+l_Sajjita_Payroll	1	show pf amount of sajjita for dec
+l_Sajjita_Payroll	1	show salaryslip under sajjita for march
+l_Sajjita_Payroll	1	i want to see bonus for anushka
+l_Sajjita_Payroll	1	i want to quit this session
+l_Sajjita_Payroll	1	show help
+l_Sajjita_Payroll	1	i want to apply for travel reimbursement
+l_Sajjita_Payroll	1	i wanna view payroll options
+l_Sajjita_Payroll	1	i want to see salary slip for feb under sajjita
+l_Sajjita_Payroll	1	show the the pf amount for yash
+l_Sajjita_Payroll	1	tell the pf amount of nancy for december
+l_Sajjita_Payroll	1	i want help
+l_Sajjita_Payroll	1	i want to see my gratuity
+l_Sajjita_Payroll	1	show bonus for february
+l_Sajjita_Payroll	1	what is my gratuity amount for may? name - yukti , id- 303040
+l_Sajjita_Payroll	1	check my gratuity for the month of jan
+l_Sajjita_Payroll	1	sajjita. i want to see my bonus for jan
+l_Sajjita_Payroll	1	i'd like to reimburse my travel allowance
+l_Sajjita_Payroll	1	what is bonus for may
+l_Sajjita_Payroll	1	show pf of sajjita
+l_Sajjita_Payroll	1	i dont want to see suggestions
+l_Sajjita_Payroll	1	recharging
+l_Sajjita_Payroll	1	i want travel allowance of 500rs under nancy with id 303011
+l_Sajjita_Payroll	1	duryodhan
+l_Sajjita_Payroll	1	i want to exit this session
+l_Sajjita_Payroll	1	i want payroll option
+l_Sajjita_Payroll	1	file medical allowance under name yukti with empid 202086
+l_Sajjita_Payroll	1	quit
+l_Sajjita_Payroll	1	quit this conversation
+l_Sajjita_Payroll	1	exit this convo
+l_Sajjita_Payroll	1	i dont need suggestions
+l_Sajjita_Payroll	1	show the pf amount of yash for sep
+l_Sajjita_Payroll	1	show payroll suggestions
+l_Sajjita_Payroll	1	my name is sajjita and i want to view my may pf.
+l_Sajjita_Payroll	1	show my salary details for oct
+l_Sajjita_Payroll	1	i want to see bonus for yash
+l_Sajjita_Payroll	1	i want to exit the session
+l_Sajjita_Payroll	1	empid is 303040 and i want to view my pf statement for december
+l_Sajjita_Payroll	1	file a reimbursement request for sajjita
+l_Sajjita_Payroll	1	show gratuity amount for sajjita
+l_Sajjita_Payroll	1	show pf for dec
+l_Sajjita_Payroll	1	payroll
+l_Sajjita_Payroll	1	show pf amount for sajjita for dec
+l_Sajjita_Payroll	1	want to apply for reimbursement of 100rs
+l_Sajjita_Payroll	1	emp id 202086 and i want to see my pf
+l_Sajjita_Payroll	1	i want to recharge
+l_Sajjita_Payroll	1	i want to check my bonus
+l_Sajjita_Payroll	1	show salary slip for sajjita
+l_Sajjita_Payroll	1	what is my bonus for february? 202086 and name is anushka
+l_Sajjita_Payroll	1	my emp id is 303011 and i want to view my bonus for dec
+l_Sajjita_Payroll	1	kash
+l_Sajjita_Payroll	1	i want to recharge my phone
+l_Sajjita_Payroll	1	show me help suggestions
+l_Sajjita_Payroll	1	payroll suggestions
+l_Sajjita_Payroll	1	i wanna see help suggestions
+l_Sajjita_Payroll	1	please show me the suggestions
+l_Sajjita_Payroll	1	show help options
+l_Sajjita_Payroll	1	yes
+l_Sajjita_Payroll	1	my name is kashish and i want to see my gratuity
+l_Sajjita_Payroll	1	i want to apply for medical allowance of 200 dollars
+l_Sajjita_Payroll	1	file a reimbursement request for medical allowance of 100dollars under sajjita
+l_Sajjita_Payroll	1	i need help
+l_Sajjita_Payroll	1	i want to know my pf for march
+l_Sajjita_Payroll	1	i want to know my gratuity for the december. emp id - 202086 , name - nancy
+None	1	i want to file travel allowance of 200 dollars
+None	1	name - soha , emp id - 303011. file for medical allowance
+q_qna-sajjita	1	Light doesn't work after upgrade.
+q_qna-sajjita	1	Who should I contact for customer service
+q_qna-sajjita	1	How do I contact support
+q_qna-sajjita	1	Light won't turn on.
+q_qna-sajjita	1	I need help.
+q_qna-sajjita	1	Question
+q_qna-sajjita	1	What type of light bulb do I need
+q_qna-sajjita	1	Hi
+q_qna-sajjita	1	My Contoso smart light won't turn on.
+q_qna-sajjita	1	How long does the light's battery last for
+q_qna-sajjita	1	I upgraded the app and it doesn't work anymore.

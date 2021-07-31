@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Sajjita_Payroll",
+      "appId": "01a9626c-33cb-440f-98d2-20db1136cc3f",
+      "authoringKey": "7dba0b10cb3440b88cfead2f7b1c15e0",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Sajjita_Payroll",
+      "id": "1"
+    },
+    {
+      "intentName": "q_qna-sajjita",
+      "includePrompts": true,
+      "kbId": "799d7881-8f8d-4cd2-8ea3-05024fa503d2",
+      "subscriptionKey": "0dee76f49f1f4fc3aab203528ef02a01",
+      "type": "qna",
+      "name": "Yukti_Bot",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "41a6291a-027e-4649-bb0c-a89cb7abd574",
+  "authoringKey": "7dba0b10cb3440b88cfead2f7b1c15e0",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "payroll_dispatch"
+}

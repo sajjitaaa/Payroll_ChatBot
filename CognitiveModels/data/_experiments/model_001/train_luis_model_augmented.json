@@ -1,0 +1,872 @@
+﻿{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_Sajjita_Payroll"
+    },
+    {
+      "name": "q_qna-sajjita"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "ReimbursementType",
+      "subLists": [
+        {
+          "canonicalForm": "Medical",
+          "list": [
+            "medical"
+          ]
+        },
+        {
+          "canonicalForm": "Travel",
+          "list": [
+            "travel"
+          ]
+        },
+        {
+          "canonicalForm": "Convence",
+          "list": [
+            "convence"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    },
+    {
+      "name": "money",
+      "roles": []
+    },
+    {
+      "name": "number",
+      "roles": []
+    },
+    {
+      "name": "personName",
+      "roles": []
+    }
+  ],
+  "utterances": [
+    {
+      "text": "yes i want to see suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show gratuity for april of sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "what is my pf amount for november",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file medical allowance under yukti with empid 202086",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see payroll",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "recharge",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "what is my gratuity amount till march",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "see payroll options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to quit this convo",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "exit",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "my employee id is 202086 and i want to apply for reimbursement of travel for 20 dollars",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "tell me my gratuity for emp id 202086 and name sajjita for march",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "recharge my current balance",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file a request for medical allowance reimbursement",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "tell gratuity amount of march for kashish",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my salaryslip",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show gratuity for sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show salary slip for january",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "no",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want see my bonus for the month of december",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "my name is sajjita and i want to apply for medical reimbursement of 40 dollars",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to view bonus for soha",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to view my gratuity for may",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for kashish",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see help options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for kash",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "name-soha , empid- 303011 , show the salary slip for april",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for reimbursement",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i wanna quit this conversation",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "my name is sajjita. i want to view my bonus",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "help options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show payroll options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my bonus for feb",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "quit this convo",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show pf for sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my bonus",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "payroll options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my pf for feb",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "no i dont need help",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "payroll options please",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for travel allowance of 300 rupees",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show pf amount of sajjita for dec",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show salaryslip under sajjita for march",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for anushka",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to quit this session",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show help",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for travel reimbursement",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i wanna view payroll options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see salary slip for feb under sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show the the pf amount for yash",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "tell the pf amount of nancy for december",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "tell me my march pf amount",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i wanna exit",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file a request for convence allowance reimbursement of 200 dollars",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for travel allowance",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "view payroll",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "what are the payroll optiobs",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my salary slip",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "shoe help suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to view bonus for yash",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show salary slip for feb under sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "kashish",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "yes i need help",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i wanna quit",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "check my gratuity amount for january",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my salary details",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show my salary slip of march",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show salary slip under sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to know my pf for may. name is sajjita bhattacharya",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show salary slip",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i need help suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file for medical allowance of 200 dollars",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "want to see help suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to view my salary slip. my name is sajjita , for april month.",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show me the bonus for december",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show gratuity for april for sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want help",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see my gratuity",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show bonus for february",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "what is my gratuity amount for may? name - yukti , id- 303040",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "check my gratuity for the month of jan",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "sajjita. i want to see my bonus for jan",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i'd like to reimburse my travel allowance",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "what is bonus for may",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show pf of sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i dont want to see suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "recharging",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want travel allowance of 500rs under nancy with id 303011",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "duryodhan",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to exit this session",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want payroll option",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file medical allowance under name yukti with empid 202086",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "quit",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "quit this conversation",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "exit this convo",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i dont need suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show the pf amount of yash for sep",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show payroll suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "my name is sajjita and i want to view my may pf.",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show my salary details for oct",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to see bonus for yash",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to exit the session",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "empid is 303040 and i want to view my pf statement for december",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file a reimbursement request for sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show gratuity amount for sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show pf for dec",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "payroll",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show pf amount for sajjita for dec",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "want to apply for reimbursement of 100rs",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "emp id 202086 and i want to see my pf",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to recharge",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to check my bonus",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show salary slip for sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "what is my bonus for february? 202086 and name is anushka",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "my emp id is 303011 and i want to view my bonus for dec",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "kash",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to recharge my phone",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show me help suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "payroll suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i wanna see help suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "please show me the suggestions",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "show help options",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "yes",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "my name is kashish and i want to see my gratuity",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to apply for medical allowance of 200 dollars",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "file a reimbursement request for medical allowance of 100dollars under sajjita",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i need help",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to know my pf for march",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "i want to know my gratuity for the december. emp id - 202086 , name - nancy",
+      "intent": "l_Sajjita_Payroll",
+      "entities": []
+    },
+    {
+      "text": "light doesn't work after upgrade.",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "who should i contact for customer service",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "how do i contact support",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "light won't turn on.",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "i need help.",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "question",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "ssup",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "my smart light app stopped responding.",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "why does the light not work",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "what type of light bulb do i need",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "my contoso smart light won't turn on.",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "how long does the light's battery last for",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "i upgraded the app and it doesn't work anymore.",
+      "intent": "q_qna-sajjita",
+      "entities": []
+    },
+    {
+      "text": "i want to file travel allowance of 200 dollars",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "name - soha , emp id - 303011. file for medical allowance",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i want to see my bonus for december. name is sajjita",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "versionId": "Dispatch",
+  "name": "dispatchFile",
+  "desc": "Dispatch model for dispatchFile",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "i want to apply for {ReimbursementType} allowance",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show pf amount for {personName} for {datetimeV2}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show salary slip under {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "i want {ReimbursementType} allowance of {money} under {personName} with id {number}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "file a reimbursement request for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show the the pf amount for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "i want to see bonus for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show gratuity amount for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show salary slip for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "my employee id is {number} and i want to apply for reimbursement of {ReimbursementType} for {money}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "file for {ReimbursementType} allowance of {money}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "i want to view bonus for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    }
+  ],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

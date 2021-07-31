@@ -1,0 +1,128 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_Sajjita_Payroll"
+    },
+    {
+      "name": "q_qna-sajjita"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "ReimbursementType",
+      "subLists": [
+        {
+          "canonicalForm": "Medical",
+          "list": [
+            "medical"
+          ]
+        },
+        {
+          "canonicalForm": "Travel",
+          "list": [
+            "travel"
+          ]
+        },
+        {
+          "canonicalForm": "Convence",
+          "list": [
+            "convence"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    },
+    {
+      "name": "money",
+      "roles": []
+    },
+    {
+      "name": "number",
+      "roles": []
+    },
+    {
+      "name": "personName",
+      "roles": []
+    }
+  ],
+  "utterances": [],
+  "versionId": "Dispatch",
+  "name": "dispatchFile",
+  "desc": "Dispatch model for dispatchFile",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "i want to apply for {ReimbursementType} allowance",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show pf amount for {personName} for {datetimeV2}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show salary slip under {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "i want {ReimbursementType} allowance of {money} under {personName} with id {number}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "file a reimbursement request for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show the the pf amount for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "i want to see bonus for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show gratuity amount for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "show salary slip for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "my employee id is {number} and i want to apply for reimbursement of {ReimbursementType} for {money}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "file for {ReimbursementType} allowance of {money}",
+      "intent": "l_Sajjita_Payroll"
+    },
+    {
+      "pattern": "i want to view bonus for {personName}",
+      "intent": "l_Sajjita_Payroll"
+    }
+  ],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}
